@@ -7,5 +7,5 @@ Repositório para a hospedagem do código do trabalho semestral da cadeira de Pr
 - Kevin Naife (@KNaife99)
 - Reizen Dos Santos (@reizen-desu)
 
-#### Licença
+## Licença
 Este projecto é de código aberto e está disponível sobre a licença MIT.
